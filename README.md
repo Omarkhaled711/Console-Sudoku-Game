@@ -3,9 +3,9 @@ A simple console sudoku game in which a new random puzzle is generated every tim
 # Game Interface:
 It's a console game, so nothing fancy, the best I can do is to make it colorful a little bit xD. 
 * starting menu
-![Starting menu](./start.png " ")
+![Starting menu](./images/start.png " ")
 * sudoku grid
- ![sudokuGrid](./playing.png " ")
+ ![sudokuGrid](./images/playing.png " ")
 
 # Building it:
 Use the provided makefile.
