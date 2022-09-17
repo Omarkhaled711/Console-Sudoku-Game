@@ -5,7 +5,7 @@ It's a console game, so nothing fancy, the best I can do is to make it colorful 
 * starting menu
 ![Starting menu](./start.png " ")
 * sudoku grid
- ![Starting menu](./playing.png " ")
+ ![sudokuGrid](./playing.png " ")
 
 # Building it:
 Use the provided makefile.
